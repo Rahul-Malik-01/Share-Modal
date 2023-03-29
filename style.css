@@ -41,7 +41,7 @@
     height: 19em;
     border-radius: 50%;
     box-shadow: 0 0 50px #F582A7;
-    background: linear-gradient(-25deg, #ce70d3, #711A75);
+    background: linear-gradient(-25deg, #ce70d3 , #711A75);
     animation: circle2Animate 8s infinite;
   }
   @keyframes circle2Animate {
@@ -237,7 +237,7 @@
   }
   @media (max-width: 850px) {
     .card-wrapper {
-      max-width: 250px;
+      max-width: 100%;
       width: 300px;
     }
     .bottom-group {
