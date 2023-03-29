@@ -255,6 +255,7 @@
       align-items: center;
     }
     .card-wrapper {
+      max-width: 100%;
       position: static;
       top: 0;
       left: 0;
